@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha S Kanak  
 
-<!--
-**nehaskanak/nehaskanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2023 B.E. Graduate | 🚀 Aspiring Java Full Stack Developer  
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**  
+- Core Java, Advanced Java (Servlets, JSP)  
+- SQL, MySQL  
+- HTML, CSS, JavaScript  
+- React.js, JDBC, Git/GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Projects:**  
+- [Student Management System](https://github.com/YourRepo/Student-Management-System)  
+- [Online Task Manager](https://github.com/YourRepo/Online-Task-Manager)  
+- [Health & Fitness Tracker](https://github.com/YourRepo/Health-Fitness-Tracker)  
+
+📫 **Connect with me:**  
+- LinkedIn: [Neha S Kanak](https://linkedin.com/in/your-link)  
+- Email: nehakanaks06@gmail.com  
